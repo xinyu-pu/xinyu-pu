@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 - 🍻 Junior at 🇨🇳 [SWU](https://www.swu.edu.cn), _IS in Electronics and Information Engineering_
 - ⚡ C++ / Python / MATLAB.
-- 😄 My research interests include: Multi-view Clustering.
+- 😄 My research interests include: Artificial Intelligence, Data Mining and Multi-view Clustering.
 
 
 ![](https://github-readme-stats.vercel.app/api?username=LttGenius)

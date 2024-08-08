@@ -12,9 +12,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Hi, I'm Xinyu Pu👋
+### Hi, I'm Xinyu Pu(蒲鑫宇)👋
 
-- 🍻 Junior at 🇨🇳 [SWU](https://www.swu.edu.cn), _IS in Electronics and Information Engineering_
+- 🍻 I am currently pursuing M.S. degree of Southeast University([SWU](https://www.seu.edu.cn)), Nanjing, China.  
 - ⚡ C++ / Python / MATLAB.
 - 😄 My research interests include: Artificial Intelligence, Data Mining and Multi-view Clustering.
 - 📫 If you have any questions, please feel free to email me at xndsb330@email.swu.edu.cn

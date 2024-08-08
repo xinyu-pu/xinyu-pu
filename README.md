@@ -16,6 +16,6 @@ Here are some ideas to get you started:
 
 - 🍻 I am currently pursuing M.S. degree of Southeast University([SWU](https://www.seu.edu.cn)), Nanjing, China.  
 - ⚡ C++ / Python / MATLAB.
-- 😄 My research interests include: Artificial Intelligence, Data Mining and Multi-view Clustering.
+- 😄 My research interests include: Artificial Intelligence, Multi-view Clustering, and Generative Model.  
 - 📫 If you have any questions, please feel free to email me at xndsb330@email.swu.edu.cn
 - 🌱 For more information, please check the [homepage](https://xinyu-pu.github.io). 

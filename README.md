@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 -->
 ### Hi, I'm Xinyu Pu(蒲鑫宇)👋
 
-- 🍻 I am currently pursuing M.S. degree of Southeast University([SWU](https://www.seu.edu.cn)), Nanjing, China.  
+- 🍻 I am currently pursuing M.S. degree at Southeast University([SEU](https://www.seu.edu.cn)), Nanjing, China.  
 - ⚡ C++ / Python / MATLAB.
 - 😄 My research interests include: Artificial Intelligence, Deep Learning, and Generative Model.  
 - 📫 If you have any questions, please feel free to email me at xndsb330@email.swu.edu.cn

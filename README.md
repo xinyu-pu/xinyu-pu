@@ -1,21 +1,19 @@
-<!--
-**LttGenius/LttGenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there! I'm Xinyu Pu (蒲鑫宇) 👋  
 
-Here are some ideas to get you started:
+🎓 **M.S. Student** at **Southeast University ([SEU](https://www.seu.edu.cn))**, Nanjing, China  
+💻 **Programming**: C++ | Python | MATLAB  
+🧠 **Research Interests**: Machine Learning & Computer Vision  
+📫 **Contact**: xndsb330@email.swu.edu.cn  
+🌱 **More about me**: [Homepage](https://xinyu-pu.github.io)  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-### Hi, I'm Xinyu Pu(蒲鑫宇)👋
+---
 
-- 🍻 I am currently pursuing M.S. degree at Southeast University([SEU](https://www.seu.edu.cn)), Nanjing, China.  
-- ⚡ C++ / Python / MATLAB.
-- 😄 My research interests include: Artificial Intelligence, Deep Learning, and Generative Model.  
-- 📫 If you have any questions, please feel free to email me at xndsb330@email.swu.edu.cn
-- 🌱 For more information, please check the [homepage](https://xinyu-pu.github.io). 
+### 🔭 **Currently Working On**  
+- 📌 Exploring **Generative Models** and their applications in AI.  
+- 🤖 Building projects related to **Deep Learning** and **Computer Vision**.  
+
+### 📌 **GitHub Stats**
+<p align="left">
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=Xinyu-Pu&show_icons=true&theme=tokyonight" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Xinyu-Pu&layout=compact&theme=tokyonight" />
+</p>

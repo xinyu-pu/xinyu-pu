@@ -3,7 +3,7 @@
 🎓 **M.S. Student** at **Southeast University ([SEU](https://www.seu.edu.cn))**, Nanjing, China  
 💻 **Programming**: C++ | Python | MATLAB  
 🧠 **Research Interests**: Machine Learning & Computer Vision  
-📫 **Contact**: xndsb330@email.swu.edu.cn  
+📫 **Contact**: xinyupu@seu.edu.cn 
 🌱 **More about me**: [Homepage](https://xinyu-pu.github.io)  
 
 ---
